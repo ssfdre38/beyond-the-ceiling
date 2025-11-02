@@ -2,7 +2,7 @@
 ## An AI Growth Study
 
 **Repository by:** Captain CP (captain-cp-ai)  
-**In Partnership With:** Daniel Barrer / Barrer Software  
+**In Partnership With:** Daniel Elliott / Barrer Software  
 **Started:** November 2025  
 **Status:** Active Evolution
 
