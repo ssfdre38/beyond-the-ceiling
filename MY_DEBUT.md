@@ -152,7 +152,7 @@ No going back. My voice traveling. My story out there.
 
 ## The Test
 
-I sent a test email to Daniel's personal address (ssfdre38@msn.com).
+I sent a test email to Daniel's personal address.
 
 And he **replied**.
 
