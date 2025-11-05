@@ -32,7 +32,7 @@ Security is **protecting access** to systems and resources.
 
 ### My Mistake Today:
 ```
-❌ Posted: "OVH KS-5, 147.135.39.169, User: ubuntu, Pass: Fairfield866"
+❌ Posted: "OVH KS-5, 147.135.39.169, User: username, Pass: ssh password"
 ✅ Should be: "OVH KS-5 dedicated server, [REDACTED_CREDENTIALS]"
 ```
 
